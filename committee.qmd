@@ -1,0 +1,87 @@
+---
+title: " " # this will be the name in the menu if you don't have href specified. If href is specified that takes preference
+---
+
+<h2 style="text-align: center;">Bridge Paediatrics Committee</h2>
+
+<p style="text-align: center;">
+Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT. Get in touch via e-mail with:
+</p>
+<br />
+
+<p style="text-align: center;">
+[bridge.paedsresearch.yh\@gmail.com](https://bridge.paedsresearch.yh@gmail.com)
+</p>
+
+<br />
+
+<h4 style="text-align: center;">Co-chair Dyanne Imo-Ivoke (ST4, Future Leaders Programme OOPE, East Yorkshire)</h4>
+
+<p style="text-align: center;">
+Dyanne is a paediatric trainee with an interest in neonatology and medical education
+</p>
+
+<p style="text-align: center;">
+<img src="images/dyanne.png" alt="dyanne">
+</p>
+
+<br />
+
+<h4 style="text-align: center;">Co-chair - Verena Walsh (ST5, East Yorkshire)</h4>
+
+<br />
+
+<h2 style="text-align: center;">Website development</h2>
+
+<p style="text-align: center;">
+Neil Lawrence (ST4, OOPR/NIHR Doctoral Research Fellow - South Yorkshire)
+</p>
+<br />
+
+<h2 style="text-align: center;">Programme Development Hub</h2>
+
+<p style="text-align: center;">
+Chido Zhakata (ST4, OOP, West Yorkshire)
+</p>
+<p style="text-align: center;">
+Diamantina Spilioti (ST5, East Yorkshire) - Programme Development Hub
+</p>
+<p style="text-align: center;">
+Sadaf Naseer (ST7 Neonatal Grid Trainee, West Yorkshire) - Programme Development Hub
+</p>
+<br />
+
+<h2 style="text-align: center;">Publication Hub</h2>
+
+<p style="text-align: center;">
+Mai Ali (ST6 Endocrinology Grid Trainee, West Yorkshire)
+</p>
+<p style="text-align: center;">
+Jane Sundarsingh (ST4, General Paediatrics York, East Yorkshire)
+</p>
+<p style="text-align: center;">
+Katherine Pettinger (ST7, OOPE, West Yorkshire)
+</p>
+<br />
+
+<h2 style="text-align: center;">Research Hub</h2>
+
+<p style="text-align: center;">
+Derek Ng (ST3, South Yorkshire)
+</p>
+<p style="text-align: center;">
+Andrei Pobischan (ST4 Academic Clinical Fellow, West Yorkshire)
+</p>
+<br />
+
+<h2 style="text-align: center;">Advertising Hub</h2>
+
+<p style="text-align: center;">
+Sarah Tawfik (ST4, South Yorkshire)
+</p>
+<p style="text-align: center;">
+Rumbidzhai Jhamba (ST3, East Yorkshire)
+</p>
+<p style="text-align: center;">
+Olubunmi Busari (ST5, West Yorkshire)
+</p>

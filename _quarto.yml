@@ -1,0 +1,52 @@
+project:
+  type: website
+
+# options for this are shown in https://quarto.org/docs/websites/website-navigation.html  
+
+# the code is sensitive to how much tab indentation there is
+website:
+  title: "Bridge Paediatrics Website"
+  navbar:
+   # select icons from here with their name https://icons.getbootstrap.com/
+    tools: 
+      - icon: x-square-fill
+        href: https://twitter.com/BridgePaedsR_yh
+      - icon: google
+        href: https://bridge.paedsresearch.yh@gmail.com
+  
+    background: purple
+  
+    foreground: white
+  
+    search: true
+  
+    logo: images/bridge_logo.png
+  
+    logo-alt: "Run by PGDiT:" #I presume this is rendered if the device can't render an image
+    
+    pinned: true #whether to always show the nav bar
+    
+    collapse: true #collapse the navbar items when its a narrow view
+    left:
+      - href: index.qmd
+        text: Home
+#      - about.qmd
+
+      - href: committee.qmd
+        text: Committee members
+        
+      - href: previous_videos.qmd
+        text: Previous Research Training Videos
+
+format:
+  
+  html:
+  
+    theme: cosmo
+  
+    css: styles.css
+  
+    toc: true
+
+editor: visual
+

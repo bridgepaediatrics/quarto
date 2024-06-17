@@ -1,0 +1,55 @@
+---
+title: " "
+---
+
+
+<p style="text-align: center;">
+
+  <img src="images/bridge_logo.png" alt="bridge_logo">
+</p>
+
+<p style="text-align: center;">
+Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT</p>
+
+<h2 style="text-align: center;">Check back here for details of our next event:</h2>
+
+<h2 style="text-align: center;"> [Microsoft Teams: Research skills for paediatric doctors in training](https://tinyurl.com/959md8pr)</h2>
+
+
+
+
+<br />
+
+<p style="text-align: center;">Join the conversation with us on X via the handle:</p>
+
+<br />
+
+<p style="text-align: center;">[BridgePaedsR_yh](https://twitter.com/BridgePaedsR_yh)</p>
+
+<br />
+
+<p style="text-align: center;">
+
+Get in touch via e-mail with:
+</p>
+
+<br />
+
+<p style="text-align: center;">
+
+[bridge.paedsresearch.yh\@gmail.com](https://bridge.paedsresearch.yh@gmail.com)
+</p>
+
+
+
+<!-- comments are hidden like this -->
+
+<!-- ![Stats Advert](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)
+
+I struggle to centre images written like this:
+## ![bridge_logo](images/bridge_logo.png){alt="bridge_logo"}
+-->
+
+<br />
+
+`<a href="https://tinyurl.com/959md8pr"`{=html}![Stats Advert with Link](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)</a>
