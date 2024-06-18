@@ -11,6 +11,17 @@ title: " "
 <p style="text-align: center;">
 Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT</p>
 
+Get in touch via e-mail with:
+</p>
+
+<br />
+
+<p style="text-align: center;">
+
+[bridge.paedsresearch.yh\@gmail.com](https://bridge.paedsresearch.yh@gmail.com)
+</p>
+
+
 <h2 style="text-align: center;">Check back here for details of our next event:</h2>
 
 <h2 style="text-align: center;"> [Microsoft Teams: Research skills for paediatric doctors in training](https://tinyurl.com/959md8pr)</h2>
@@ -29,16 +40,6 @@ Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Tr
 <br />
 
 <p style="text-align: center;">
-
-Get in touch via e-mail with:
-</p>
-
-<br />
-
-<p style="text-align: center;">
-
-[bridge.paedsresearch.yh\@gmail.com](https://bridge.paedsresearch.yh@gmail.com)
-</p>
 
 
 
