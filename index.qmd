@@ -3,25 +3,34 @@ title: " "
 ---
 
 
-
 <p style="text-align: center;">
 
-  <img src="images/bridge_logo.png" alt="bridge_logo">
+  <img src="images/Bridge_logo_circle.png" 
+  alt="bridge_logo">
+</p>
+
+
+
+<p style="text-align: center;">
+Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT
 </p>
 
 <p style="text-align: center;">
-Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT</p>
+Check out the previous research training for clinician videos collated on the [Previous Research Training Videos Tab](https://bridgepaediatrics.github.io/quarto/previous_videos.html)
+</p>
+
+
+
+<p style="text-align: center;">
 
 Get in touch via e-mail with:
 </p>
 
-<br />
 
 <p style="text-align: center;">
 
-[bridge.paedsresearch.yh\@gmail.com](https://bridge.paedsresearch.yh@gmail.com)
+[bridge.paedsresearch.yh\@gmail.com](mailto:bridge.paedsresearch.yh@gmail.com)
 </p>
-
 
 <h2 style="text-align: center;">Check back here for details of our next event:</h2>
 
@@ -40,7 +49,10 @@ Get in touch via e-mail with:
 
 <br />
 
-<p style="text-align: center;">
+
+
+<br />
+
 
 
 

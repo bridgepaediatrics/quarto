@@ -1,18 +1,27 @@
 project:
   type: website
-
+  output-dir: docs
+#  site-url: https://bridgepaediatrics.github.io/quarto/
+#  base-url: /quarto/ #these weren't helping
 # options for this are shown in https://quarto.org/docs/websites/website-navigation.html  
 
 # the code is sensitive to how much tab indentation there is
+site: 
+  #when I change the output directory here, I lose my formatting
+#  output_dir: docs
+  #author: "Neil Lawrence"
+
 website:
   title: "Bridge Paediatrics Website"
+  
+  
   navbar:
    # select icons from here with their name https://icons.getbootstrap.com/
     tools: 
       - icon: x-square-fill
         href: https://twitter.com/BridgePaedsR_yh
       - icon: google
-        href: <a href="bridge.paedsresearch.yh@gmail.com">Email Us</a>
+        href: mailto:bridge.paedsresearch.yh@gmail.com #
   
     background: purple
   
@@ -20,7 +29,7 @@ website:
   
     search: true
   
-    logo: images/bridge_logo.png
+    logo: images/Bridge_logo_circle.png
   
     logo-alt: "Run by PGDiT:" #I presume this is rendered if the device can't render an image
     
@@ -46,7 +55,8 @@ format:
   
     css: styles.css
   
-    toc: false #this disables the contents index which is what displays the text 'on this page' in the top right
+    toc: false #this stops the index 'on this page' appearing in the top right of the page
 
 editor: visual
+
 
