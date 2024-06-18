@@ -46,7 +46,7 @@ format:
   
     css: styles.css
   
-    toc: true
+    toc: false #this disables the contents index which is what displays the text 'on this page' in the top right
 
 editor: visual
 
