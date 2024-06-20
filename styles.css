@@ -21,3 +21,15 @@
   height: 100%;
   border: 0; /* Remove iframe border */
 }
+
+.image-container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;    /* Centers vertically */
+  height: 100vh;          /* Adjust as necessary */
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto; /* Maintain aspect ratio */
+}
