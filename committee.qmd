@@ -36,11 +36,9 @@ Dyanne is a paediatric trainee with an interest in neonatology and medical educa
 
 </p>
 
-<p style="text-align: center;">
-
-<img src="images/dyanne.png" alt="dyanne"/>
-
-</p>
+<div class="image-container">
+<img src="images/dyanne.png" alt="image_of_dyanne"/>
+</div>
 
 <br />
 
