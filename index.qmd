@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 ---
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Get in touch via e-mail with:
 
 <h2 style="text-align: center;">
 
-Check back here for details of our next event:
+1500hrs 22nd July - Oncology journal club with Drs Farah and Morgan. Use the following link to access the event:
 
 </h2>
 
@@ -45,6 +45,13 @@ Check back here for details of our next event:
 </h2>
 
 <br />
+
+<h2 style="text-align: center;">
+
+August 2024 - Turning Quality Improvement Projects into publication, Dr. Aoife Hurley
+
+</h2>
+
 
 <p style="text-align: center;">
 
