@@ -2,39 +2,39 @@
 title: ""
 ---
 
+<div class="image-container">
+
+  <img src="images/Bridge_logo_circle.png" alt="bridge_logo"/>
+
+</div>
+
 <p style="text-align: center;">
 
-<img src="images/Bridge_logo_circle.png" alt="bridge_logo"/>
+  Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT
 
 </p>
 
-<p style="text-align: center;">
+<p class="center-text">
 
-Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT
-
-</p>
-
-<p style="text-align: center;">
-
-Check out the previous research training for clinician videos collated on the [Previous Research Training Videos Tab](https://bridgepaediatrics.github.io/quarto/previous_videos.html)
+  Check out the previous research training for clinician videos collated on the [Previous Research Training Videos Tab](https://bridgepaediatrics.github.io/quarto/previous_videos.html)
 
 </p>
 
-<p style="text-align: center;">
+<p class="center-text">
 
-Get in touch via e-mail with:
+  Get in touch via e-mail with:
 
 </p>
 
-<p style="text-align: center;">
+<p class="center-text">
 
-[bridge.paedsresearch.yh\@gmail.com](mailto:bridge.paedsresearch.yh@gmail.com)
+  [bridge.paedsresearch.yh\@gmail.com](mailto:bridge.paedsresearch.yh@gmail.com)
 
 </p>
 
 <h2 style="text-align: center;">
 
-1500hrs 22nd July - Oncology journal club with Drs Farah and Morgan. Use the following link to access the event:
+  1500hrs 22nd July - Oncology journal club with Drs Farah and Morgan. Use the following link to access the event:
 
 </h2>
 
@@ -53,7 +53,7 @@ August 2024 - Turning Quality Improvement Projects into publication, Dr. Aoife H
 </h2>
 
 
-<p style="text-align: center;">
+<p class="center-text">
 
 Join the conversation with us on X via the handle:
 
@@ -61,7 +61,7 @@ Join the conversation with us on X via the handle:
 
 <br />
 
-<p style="text-align: center;">
+<p class="center-text">
 
 [BridgePaedsR_yh](https://twitter.com/BridgePaedsR_yh)
 

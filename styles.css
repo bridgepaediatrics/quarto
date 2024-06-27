@@ -1,4 +1,9 @@
 /* CSS for responsive iframes */
+
+.center-text {
+  text-align: center;
+}
+
 .iframe-container {
   position: relative;
   width: 100%;
