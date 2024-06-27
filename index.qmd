@@ -2,39 +2,37 @@
 title: ""
 ---
 
-<div class="image-container">
+::: image-container
+<img src="images/Bridge_logo_circle.png" alt="bridge_logo"/>
+:::
 
-  <img src="images/Bridge_logo_circle.png" alt="bridge_logo"/>
+<h5 style="text-align: center;">
 
-</div>
+Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT
 
-<p style="text-align: center;">
+</h5>
 
-  Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT
+<h5 style="text-align: center;">
 
-</p>
+Check out the previous research training for clinician videos collated on the [Previous Research Training Videos Tab](https://bridgepaediatrics.github.io/quarto/previous_videos.html)
 
-<p class="center-text">
+</h5>
 
-  Check out the previous research training for clinician videos collated on the [Previous Research Training Videos Tab](https://bridgepaediatrics.github.io/quarto/previous_videos.html)
+<h5 style="text-align: center;">
 
-</p>
+Get in touch via e-mail with:
 
-<p class="center-text">
+</h5>
 
-  Get in touch via e-mail with:
+<h5 style="text-align: center;">
 
-</p>
+[bridge.paedsresearch.yh\@gmail.com](mailto:bridge.paedsresearch.yh@gmail.com)
 
-<p class="center-text">
-
-  [bridge.paedsresearch.yh\@gmail.com](mailto:bridge.paedsresearch.yh@gmail.com)
-
-</p>
+</h5>
 
 <h2 style="text-align: center;">
 
-  1500hrs 22nd July - Oncology journal club with Drs Farah and Morgan. Use the following link to access the event:
+1500hrs 22nd July - Oncology journal club with Drs Farah and Morgan. Use the following link to access the event:
 
 </h2>
 
@@ -52,20 +50,19 @@ August 2024 - Turning Quality Improvement Projects into publication, Dr. Aoife H
 
 </h2>
 
-
-<p class="center-text">
+<h5 style="text-align: center;">
 
 Join the conversation with us on X via the handle:
 
-</p>
+</h5>
 
 <br />
 
-<p class="center-text">
+<h5 style="text-align: center;">
 
 [BridgePaedsR_yh](https://twitter.com/BridgePaedsR_yh)
 
-</p>
+</h5>
 
 <br />
 

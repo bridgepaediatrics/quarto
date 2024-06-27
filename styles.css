@@ -1,4 +1,5 @@
 /* CSS for responsive iframes */
+/*  note I'm not actually using center-text, it wasnt working to centre things after I started centering and resizing the videos automatically, I never figured out why*/ 
 
 .center-text {
   text-align: center;
