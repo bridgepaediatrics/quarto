@@ -1,0 +1,9 @@
+---
+title: " " # this will be the name in the menu if you don't have href specified. If href is specified that takes preference
+---
+
+<h2 style="text-align: center;">
+
+Keep an eye on this page for upcoming research opportunities across Yorkshire and beyond
+
+</h2>

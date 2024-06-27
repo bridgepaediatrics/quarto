@@ -46,6 +46,9 @@ website:
         
       - href: previous_videos.qmd
         text: Previous Research Training Videos
+        
+      - href: upcoming_opportunities.qmd
+        text: Upcoming opportunities
 
 format:
   
