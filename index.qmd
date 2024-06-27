@@ -2,68 +2,77 @@
 title: " "
 ---
 
-
 <p style="text-align: center;">
 
-  <img src="images/Bridge_logo_circle.png" 
-  alt="bridge_logo">
+<img src="images/Bridge_logo_circle.png" alt="bridge_logo"/>
+
 </p>
 
-
-
 <p style="text-align: center;">
+
 Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT
+
 </p>
 
 <p style="text-align: center;">
+
 Check out the previous research training for clinician videos collated on the [Previous Research Training Videos Tab](https://bridgepaediatrics.github.io/quarto/previous_videos.html)
+
 </p>
-
-
 
 <p style="text-align: center;">
 
 Get in touch via e-mail with:
-</p>
 
+</p>
 
 <p style="text-align: center;">
 
 [bridge.paedsresearch.yh\@gmail.com](mailto:bridge.paedsresearch.yh@gmail.com)
+
 </p>
 
-<h2 style="text-align: center;">Check back here for details of our next event:</h2>
+<h2 style="text-align: center;">
 
-<h2 style="text-align: center;"> [Microsoft Teams: Research skills for paediatric doctors in training](https://tinyurl.com/959md8pr)</h2>
+Check back here for details of our next event:
 
+</h2>
 
+<h2 style="text-align: center;">
 
+[Microsoft Teams: Research skills for paediatric doctors in training](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGNhZTMyMmEtN2NmMS00NDNmLTlmMWQtYzhhNzc2Y2UwMzlm%40thread.v2/0?context=%7b%22Tid%22%3a%2237c354b2-85b0-47f5-b222-07b48d774ee3%22%2c%22Oid%22%3a%22d683b6ea-f3a9-4817-916d-9871d81d8664%22%7d)
 
-<br />
-
-<p style="text-align: center;">Join the conversation with us on X via the handle:</p>
-
-<br />
-
-<p style="text-align: center;">[BridgePaedsR_yh](https://twitter.com/BridgePaedsR_yh)</p>
+</h2>
 
 <br />
 
+<p style="text-align: center;">
 
+Join the conversation with us on X via the handle:
+
+</p>
 
 <br />
 
+<p style="text-align: center;">
 
+[BridgePaedsR_yh](https://twitter.com/BridgePaedsR_yh)
 
+</p>
+
+<br />
+
+<br />
 
 <!-- comments are hidden like this -->
 
+```{=html}
 <!-- ![Stats Advert](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)
 
 I struggle to centre images written like this:
 ## ![bridge_logo](images/bridge_logo.png){alt="bridge_logo"}
 -->
-
+```
 <br />
 
 `<a href="https://tinyurl.com/959md8pr"`{=html}![Stats Advert with Link](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)</a>
