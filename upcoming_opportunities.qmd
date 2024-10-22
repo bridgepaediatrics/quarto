@@ -4,6 +4,8 @@ title: " " # this will be the name in the menu if you don't have href specified.
 
 <h2 style="text-align: center;">
 
-Keep an eye on this page for upcoming research opportunities across Yorkshire and beyond
+School of Paediatrics 15th Annual Meeting - 2024
+
+[On Thursday 21st November, come and join us for an inspirational day, themed around "Empowering the Voice of the Parent and Child"](https://www.yorksandhumberdeanery.nhs.uk/paediatrics/school-paediatrics-annual-meeting)
 
 </h2>
