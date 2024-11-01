@@ -1,10 +1,6 @@
 ---
-title: " " # this will be the name in the menu if you don't have href specified. If href is specified that takes preference
+title: "<h1 style='text-align: center;'>Bridge Paediatrics Committee</h1>" # this will be the name in the menu if you don't have href specified. If href is specified that takes preference
 ---
-
-<h2 style="text-align: center;">
-
-Bridge Paediatrics Committee
 
 </h2>
 
@@ -36,11 +32,9 @@ Dyanne is a paediatric trainee with an interest in neonatology and medical educa
 
 </h6>
 
-<div class="image-container">
-
+::: image-container
 <img src="images/dyanne.png" alt="image_of_dyanne"/>
-
-</div>
+:::
 
 <br />
 
