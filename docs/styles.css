@@ -32,10 +32,16 @@
   display: flex;
   justify-content: center; /* Centers horizontally */
   align-items: center;    /* Centers vertically */
-  height: 100vh;          /* Adjust as necessary */
+  margin: 0; /* Ensure no extra margin on the container */
+  padding: 0; /* Ensure no padding */
+  max-width: 100%;
+  height: auto;          /* Adjust as necessary */
 }
 
 .image-container img {
   max-width: 100%;
+  margin: 0; /* Ensure no extra margin on the container */
+  padding: 0; /* Ensure no padding */
+  text-align: center; /* Center the image if desired */
   height: auto; /* Maintain aspect ratio */
 }

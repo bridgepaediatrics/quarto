@@ -5,23 +5,23 @@ meta:
   - content: "jfV9e7XgKexHzUQZGCIP9wclUS-ArJprQrLI1spN2z8"
 ---
 
-::: image-container
-<img src="images/Bridge_logo_circle.png" alt="bridge_logo"/>
-:::
-
 <h5 style="text-align: center;">
 
 Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT
 
 </h5>
 
-<h4 style="text-align: center;">
+<h2 style="text-align: center;">
 
-[Check out the previous research training for clinician videos collated on the Previous Research Training Videos Tab](https://bridgepaediatrics.github.io/quarto/previous_videos.html)
+::: image-container
+<img src="images/Bridge_logo_circle.jpg" alt="bridge_logo"/>
+:::
 
-</h4>
+</h2>
 
 <h5 style="text-align: center;">
+
+[Check out the previous research training for clinician videos collated on the Previous Research Training Videos Tab](https://bridgepaediatrics.github.io/quarto/previous_videos.html)
 
 Get in touch via e-mail with:
 
@@ -37,27 +37,9 @@ Get in touch via e-mail with:
 
 [Next event: Clinical Questions Suitable for the RCPCH e-Portfolio - Dr Anna Fox, Paediatric Consultant. Use this link to access the event via Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGNhZTMyMmEtN2NmMS00NDNmLTlmMWQtYzhhNzc2Y2UwMzlm%40thread.v2/0?context=%7b%22Tid%22%3a%2237c354b2-85b0-47f5-b222-07b48d774ee3%22%2c%22Oid%22%3a%22d683b6ea-f3a9-4817-916d-9871d81d8664%22%7d)
 
-</h2>
-
-<br />
-
-<h2 style="text-align: center;">
-
 Join us 1400hrs 5th December 2024 for "How Technology is Changing Paediatric Research" - Professor Paul Dimitri, Vice President for Science and Research for the Royal College of Paediatrics and Child Health.
 
-</h2>
-
-<br />
-
-<h2 style="text-align: center;">
-
 In January of the New Year of 2025, we can look forward to a paediatric allergy focused journal club with Dr Vibha Sharma, a Consultant in Paediatric Allergy from the Royal Manchester Children's Hospital.
-
-</h2>
-
-<br />
-
-<h2 style="text-align: center;">
 
 In February 2025, look forward to "Insights into the writing of book chapters - How to get involved and succeed" - Professor Will Carroll, Author of "The Illustrated Textbook of Paediatrics", amongst a plethora of other books and journal articles.
 
@@ -67,12 +49,6 @@ In February 2025, look forward to "Insights into the writing of book chapters - 
 
 Join the conversation with us on X via the handle:
 
-</h5>
-
-<br />
-
-<h5 style="text-align: center;">
-
 [BridgePaedsR_yh](https://twitter.com/BridgePaedsR_yh)
 
 </h5>
@@ -80,16 +56,3 @@ Join the conversation with us on X via the handle:
 <br />
 
 <br />
-
-<!-- comments are hidden like this -->
-
-```{=html}
-<!-- ![Stats Advert](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)
-
-I struggle to centre images written like this:
-## ![bridge_logo](images/bridge_logo.png){alt="bridge_logo"}
--->
-```
-<br />
-
-`<a href="https://tinyurl.com/959md8pr"`{=html}![Stats Advert with Link](/bridgepaediatrics/docs/assets/Email_footer_Dawson_stats.PNG)</a>

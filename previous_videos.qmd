@@ -10,7 +10,7 @@ Quality Improvement Projects from Neonatology in Leeds Suitable for Multicentre 
 
 <h2 style="text-align: center;">
 
-Dr Ourania Pappa, Neonatal Consultant
+Dr Ourania Pappa, Paediatrician with Neonatal Special Interest
 
 </h2>
 
@@ -70,7 +70,7 @@ Aoife Hurley, Neonatal Registrar
 
 <h1 style="text-align: center;">
 
-Journal Club - Exclusive Breastfeeding Duration and the Risk of Childhood Cancers
+Journal Club: Exclusive Breastfeeding Duration and the Risk of Childhood Cancers
 
 </h1>
 
@@ -185,13 +185,3 @@ Sean O'Riordan, Consultant in Paediatric Infectious Diseases
 </iframe>
 :::
 :::
-
-<!-- this is old code that used to embed from youtube -->
-
-<!-- <iframe width="300" height="120" src="https://www.youtube.com/embed/wWCHrONFfYQ?si=2z2IJg_2dNQfUKwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-
-<!-- <br /> -->
-
-<!-- Or you can use a link for videos instead:<br /> -->
-
-<!-- Watch the Professor Bob Phillips, Patient and Public Involvement in Research -->
