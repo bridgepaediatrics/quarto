@@ -8,17 +8,19 @@ title: "<h1 style='text-align: center;'>Bridge Paediatrics Committee</h1>" # thi
 
 Bridge Paediatrics is a research forum for Paediatric Postgraduate Doctors in Training (PGDiT) in Yorkshire and Humber, run by PGDiT. Get in touch via e-mail with:
 
-</h6>
-
 <br />
-
-<h6 style="text-align: center;">
 
 [bridge.paedsresearch.yh\@gmail.com](https://bridge.paedsresearch.yh@gmail.com)
 
 </h6>
 
 <br />
+
+<h2 style="text-align: center;">
+
+Chair Persons
+
+</h2>
 
 <h4 style="text-align: center;">
 
@@ -28,21 +30,35 @@ Co-chair Dyanne Imo-Ivoke (ST4, Future Leaders Programme OOPE, East Yorkshire)
 
 <h6 style="text-align: center;">
 
-Dyanne is a paediatric trainee with an interest in neonatology and medical education
+Dyanne is a paediatric trainee with an interest in neonatology and medical education. Dyanne is currently a Future Leaders Fellow for NHS England, Yorkshire and Humber.
 
-</h6>
 
 ::: image-container
-<img src="images/dyanne.png" alt="image_of_dyanne"/>
+<img src="images/dyanne_circle.jpg" alt="image_of_dyanne"/>
 :::
 
-<br />
+</h6>
 
 <h4 style="text-align: center;">
 
 Co-chair - Verena Walsh (ST5, East Yorkshire)
 
+<br />
+
 </h4>
+
+
+<h6 style="text-align: center;">
+
+Verena is a paediatric trainee interested in Neonatology, Quality Improvement and Systematic Review Methodology. She completed an Academic Clinical Fellowship in Yorkshire and Humber (2017-2020) and a HEE Future Leaders Programme (2020-2021).
+
+
+
+::: image-container
+<img src="images/verena_circle.jpg" alt="image_of_verena"/>
+:::
+
+</h6>
 
 <br />
 
@@ -55,6 +71,12 @@ Website development
 <h6 style="text-align: center;">
 
 Neil Lawrence (ST4, OOPR/NIHR Doctoral Research Fellow - South Yorkshire)
+
+Neil is a paediatric trainee keen to pursue a special interest in Cardiology. Whilst working on a PhD applying data science to real world registry data, Neil is also a clinical fellow for the software team at the Medicines and Healthcare Regulatory Agency, and is interested in improving the application of technology in everyday paediatric practice.
+
+::: image-container
+<img src="images/neil_circle.jpg" alt="image_of_verena"/>
+:::
 
 </h6>
 

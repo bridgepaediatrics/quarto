@@ -18,8 +18,10 @@ website:
   navbar:
    # select icons from here with their name https://icons.getbootstrap.com/
     tools: 
-      - icon: x-square-fill
-        href: https://twitter.com/BridgePaedsR_yh
+      - icon: youtube
+        href: https://www.youtube.com/channel/UC7ri7i0YPUt0empuq_JWu4Q
+      - icon: twitter-x
+        href: https://x.com/BridgePaedsR_yh
       - icon: google
         href: mailto:bridge.paedsresearch.yh@gmail.com #
   
