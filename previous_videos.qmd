@@ -1,12 +1,94 @@
 ---
-title: " "
+title: "<h1 style='text-align: center;'>Previous Bridge Paediatrics Online Events</h1>"
 ---
 
 <h1 style="text-align: center;">
 
-Previous Research Teaching Videos
+Quality Improvement Projects from Neonatology in Leeds Suitable for Multicentre Extension
 
 </h1>
+
+<h2 style="text-align: center;">
+
+Dr Ourania Pappa, Neonatal Consultant
+
+</h2>
+
+::: iframe-container
+::: responsive-iframe
+</iframe>
+
+<iframe src="https://www.youtube.com/embed/9gcF1BntZFg?si=2d3s6R9lR7Ll57nm" allow="autoplay">
+
+</iframe>
+:::
+:::
+
+<h1 style="text-align: center;">
+
+Journal Club - Risk Factors for Asthma Attacks and Poor Control in Children
+
+</h1>
+
+<h2 style="text-align: center;">
+
+Rumbie Jhamba and Haji Khan, Consultant Paediatrician
+
+</h2>
+
+::: iframe-container
+::: responsive-iframe
+</iframe>
+
+<iframe src="https://www.youtube.com/embed/eVWDeR_HZ6Q?si=6aahiZAPZfaaYMS5" allow="autoplay">
+
+</iframe>
+:::
+:::
+
+<h1 style="text-align: center;">
+
+Turning Quality Improvement Projects into Publications and Presentations
+
+</h1>
+
+<h2 style="text-align: center;">
+
+Aoife Hurley, Neonatal Registrar
+
+</h2>
+
+::: iframe-container
+::: responsive-iframe
+</iframe>
+
+<iframe src="https://www.youtube.com/embed/tZE8iFfBQe0?si=HgFgA4Knfs9Vt45h" allow="autoplay">
+
+</iframe>
+:::
+:::
+
+<h1 style="text-align: center;">
+
+Journal Club - Exclusive Breastfeeding Duration and the Risk of Childhood Cancers
+
+</h1>
+
+<h2 style="text-align: center;">
+
+Aala Farah and Jess Morgan, Consultant Paediatric Oncologist
+
+</h2>
+
+::: iframe-container
+::: responsive-iframe
+</iframe>
+
+<iframe src="https://www.youtube.com/embed/f5rbrXlfhNc?si=62nMu1JFTZc0Fx_x" allow="autoplay">
+
+</iframe>
+:::
+:::
 
 <h1 style="text-align: center;">
 
@@ -16,23 +98,19 @@ Statistics for clinical researchers
 
 <h2 style="text-align: center;">
 
-Professor Jeremy Dawson
+Jeremy Dawson, Professor of Statistics
 
 </h2>
 
-## 
-
-<div class="iframe-container">
-
-  <div class="responsive-iframe">
-
-<iframe src="https://drive.google.com/file/d/1VRGsvJh-lLNOpe0EW277SiL9eVtnO-0f/preview" allow="autoplay">
-
+::: iframe-container
+::: responsive-iframe
 </iframe>
 
-</div>
+<iframe src="https://www.youtube.com/embed/RFyOnOHSjqg?si=-QtDjBrhmGnEU5DQ" allow="autoplay">
 
-</div>
+</iframe>
+:::
+:::
 
 <h1 style="text-align: center;">
 
@@ -42,63 +120,47 @@ Patient and Public Involvement in Research
 
 <h2 style="text-align: center;">
 
-Professor Bob Phillips
+Bob Phillips, Professor of Paediatric Oncology
 
 </h2>
 
-<div class="iframe-container">
-
-  <div class="responsive-iframe">
-
+::: iframe-container
+::: responsive-iframe
 </iframe>
 
 <iframe src="https://www.youtube.com/embed/2Nf6fhkOoQg?si=8verGBhp8VybGqA-" allow="autoplay">
 
 </iframe>
-
-</div>
-
-</div>
+:::
+:::
 
 <h1 style="text-align: center;">
 
-Introduction to the COMET study in neonatology
-
+Introduction to the COMET Study in Neonatology
 
 </h1>
 
 <h2 style="text-align: center;">
 
-Dr Kathryn Johnson
+Kathryn Johnson, Consultant Neonatologist
 
 </h2>
 
-
-<div class="iframe-container">
-
-  <div class="responsive-iframe">
-
+::: iframe-container
+::: responsive-iframe
 </iframe>
 
 <iframe src="https://drive.google.com/file/d/1y5yTe-WDVuLhSXj5ZmTly65chIbTwNNr/preview" allow="autoplay">
 
 </iframe>
-
-</div>
-
-</div>
+:::
+:::
 
 <p style="text-align: center;">
-
 
 <br /> <br />
 
 </p>
-
-</iframe>
-
-
-
 
 </iframe>
 
@@ -110,28 +172,19 @@ Building A Journal Club
 
 <h2 style="text-align: center;">
 
-Dr Sean O'Riordan
+Sean O'Riordan, Consultant in Paediatric Infectious Diseases
 
 </h2>
 
-
-
-
-<div class="iframe-container">
-
-  <div class="responsive-iframe">
-
+::: iframe-container
+::: responsive-iframe
 </iframe>
 
 <iframe src="https://drive.google.com/file/d/1WYapG6KjHUu1ABQn2Zz9GJcUiPmaIh73/preview" allow="autoplay">
 
 </iframe>
-
-</div>
-
-</div>
-
-
+:::
+:::
 
 <!-- this is old code that used to embed from youtube -->
 
