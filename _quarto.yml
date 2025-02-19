@@ -13,7 +13,8 @@ site:
 
 website:
   title: "Bridge Paediatrics Website"
-  
+  description: "A paediatric resource for parents and healthcare professionals."
+  site-url: "https://bridgepaediatrics.github.io/quarto/"
   
   navbar:
    # select icons from here with their name https://icons.getbootstrap.com/
