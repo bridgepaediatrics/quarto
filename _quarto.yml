@@ -42,7 +42,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-#      - about.qmd
+
+#      - href: about.qmd
+#        test: "Join us!"
 
       - href: committee.qmd
         text: Committee members
