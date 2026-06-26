@@ -12,7 +12,7 @@ site:
   #author: "Neil Lawrence"
 
 website:
-  title: "Bridge Paediatrics Website"
+  title: "Bridge Paediatrics"
   description: "A paediatric resource for parents and healthcare professionals."
   site-url: "https://bridgepaediatrics.github.io/quarto/"
   
